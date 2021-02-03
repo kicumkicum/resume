@@ -118,11 +118,11 @@ Web-разработчик, Team-lead
 - Dom.ru 2.0 - SmartTV портал для просмотра ТВ, VOD, контента с внешних устройств и тд - поддержка и реализация новых фич, планирование спринтов, внедрение Scrum'а
 - SPBTV - приложение для просмотра ТВ и VOD-контента
 
-### Домашние проекты
+### Некоторые домашние проекты
 
 - https://github.com/kicumkicum/stupid-player - middleware для создания аудио-плеера, выполняющее всю грязную работу со звуком в node.js
 - https://github.com/torrent-proxy/bt-stream - torrent-качалка на нодовксих стримах (node.js stream)
-- https://github.com/bond - екстеншен для Хрома, связывающий тикеты в Redmine с пулл-реквестами и ветками в Bitbucket
+- https://github.com/kicumkicum/bond - расширение для Хрома, связывающий тикеты в Redmine с пулл-реквестами и ветками в Bitbucket
 
 Другие проекты так же можно посмотреть на https://github.com/kicumkicum и https://github.com/torrent-proxy
 
