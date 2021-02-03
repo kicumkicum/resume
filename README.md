@@ -2,7 +2,7 @@
 
 Акинин Олег
 
-<img align="right" src="./img/photo.jpeg">
+<img align="right" src="./img/photo.jpeg" height=200px>
 
 33 года, родился 10 августа 1987
 
