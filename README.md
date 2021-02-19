@@ -12,7 +12,7 @@
 
 ## Контакты
 
-- Телефон: +7-(999)-49529xx
+- Телефон: +7-(999)-495-29xx
 - Telegram: https://t.me/kicumkicum
 - Mail: kicumkicum@gmail.com
 - LinkedIn: http://linkedin.com/in/kicumkicum
