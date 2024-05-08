@@ -211,4 +211,4 @@ Web-разработчик, Team-lead
 
 ### Навыки
 
-JavaScript; Scrum; Atlassian Jira; Mercurial; ООП; HTML5; Веб-программирование; Web Application Development; Teamleading; Agile Project Management; Git; HTTP; Smart TV; TypeScript; Google Closure Compiler; Node.js; Linux; Bash; React; Redux; Redux Toolkit; Next.js; express; CI/CD; TDD.
+JavaScript; Scrum; Atlassian Jira; Mercurial; ООП; HTML5; Веб-программирование; Web Application Development; Teamleading; Agile Project Management; Git; HTTP; Smart TV; TypeScript; Google Closure Compiler; Node.js; Linux; Bash; React; Redux; Redux Toolkit; Next.js; express; CI/CD; TDD; React Testing Library; Enzyme.
