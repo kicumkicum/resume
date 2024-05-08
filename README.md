@@ -27,13 +27,15 @@
 
 Декабрь 2021 — настоящее время
 
-Основатель, Руководитель
+Основатель, Руководитель, Архитектор
 
 - Продуктовое развитие
 - Техническое развитие
 - Маркетинг и продвижение
+- Управление
 - Администрирование и юридические вопросы
 - Работа с пользователями
+- Стек: TypeScript; React; Next.js; Node.js; MongoDB; jest; Telegram API; Google API; Github API; Github Actions; etc.
 
 ### [BSS Bank Soft System](https://bssys.com) Санкт-Петербург
 
@@ -45,7 +47,8 @@
 - Оценка и планирование трудозатрат;
 - Декомпозиция задач;
 - Настройка инфраструктуры проекта: webpack, eslint, react-test-library, storybook, GitLab CI/CD, TeamCity CI/CD;
-- Код-ревью.
+- Код-ревью;
+- Стек: React; Redux; Cordova; Node.js; jest; StoryBook; Gitlab CI/CD; TeamCity; etc.
 
 ### [Siemens](https://www.siemens.ru) Санкт-Петербург
 
@@ -57,6 +60,7 @@
 - Улучшение кодовой базы и инфраструктуры проекта (линтинг, тесты)
 - Наставничество
 - Код-ревью
+- Стек: React; Redux; Angular; Node.js; jest; TeamCity; etc.
 
 ### [Okko](https://okko.tv) Санкт-Петербург
 
