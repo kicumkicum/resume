@@ -29,7 +29,7 @@
 
 Архитектор фронтенд продуктов, web и мобильные приложения
 
-Стек: React; Redux; TypeScript; LLM; OpenAI API; LangChain; LangGraph; Styled Components; Cordova; Node.js; jest; cordova, StoryBook; Gitlab CI/CD; TeamCity; Docker; etc.
+Стек: React; Redux; TypeScript; LLM; OpenAI API; LangChain; LangGraph; LangFuse; OpenAI API; Styled Components; Cordova; Node.js; jest; cordova, StoryBook; Gitlab CI/CD; TeamCity; Docker; etc.
 
 Основные обязанности:
 
